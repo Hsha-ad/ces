@@ -1,2 +1,0 @@
-- name: Unrar file
-  run: unrar x WWWV2.rar extracted/
