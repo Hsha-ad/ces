@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://playlet.arsn.cn/sitemap.xml
